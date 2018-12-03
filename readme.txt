@@ -2,4 +2,3 @@ git is a distributed version control system
 git is free software distributed unde the gpl
 git has a mutable index called stage
 git tracks changes of files
-my stupid boss still prefers svn
